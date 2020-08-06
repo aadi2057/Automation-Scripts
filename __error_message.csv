@@ -1,0 +1,5 @@
+Error,Count
+Timeout while retrieving information,3
+Connection to DB failed,3
+Ticket doesn't exist,1
+The ticket was modified while updating,1
